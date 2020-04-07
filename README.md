@@ -1,2 +1,1 @@
-# pandas-cheatsheet
-Cheatsheet from https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+# All the cheatsheets that I'll find on my learning path
